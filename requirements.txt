@@ -4,3 +4,5 @@ pytesseract
 opencv-python
 Pillow
 reportlab
+
+pip install -r requirements.txt
