@@ -43,3 +43,11 @@ Built with **FastAPI**, **Tesseract OCR**, **OpenCV**, and a lightweight **HTML/
 ### Run the backend
 ```bash
 python -m uvicorn main:app --reload
+
+---
+
+🤝 Team / Contributors
+
+[Shubhajit Saha] – Backend & OCR
+
+[Rohit Bera] – Frontend
