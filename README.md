@@ -37,3 +37,9 @@ Built with **FastAPI**, **Tesseract OCR**, **OpenCV**, and a lightweight **HTML/
    ```bash
    git clone https://github.com/yourusername/handwriting-to-text.git
    cd handwriting-to-text
+
+---
+
+### Run the backend
+```bash
+python -m uvicorn main:app --reload
